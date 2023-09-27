@@ -7,7 +7,7 @@
     "start": "tsc -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "if164ever",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.2.2"
