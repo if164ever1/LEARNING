@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output directory
+dist/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore TypeScript compilation output
+*.js
+*.js.map
+
+# Ignore any potential npm lock files
+package-lock.json
+yarn.lock
