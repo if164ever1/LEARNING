@@ -27,11 +27,11 @@ console.log(name1);
 console.log(age1);
 
 // TUPLE FUNCTIONS
-function add(a:number, b:number): [number, string]{
+function add4(a:number, b:number): [number, string]{
     return [a + b, `The sum of ${a} and ${b} is ${a + b}`];
 }
 
-const result = add(4,5);
+const result = add4(4,5);
 console.log(result);
 
 // READONLY TUPLES
